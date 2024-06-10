@@ -1,0 +1,3 @@
+```shell-session
+crackmapexec <proto> <target-IP> -u <user or userlist> -p <password or passwordlist>
+```

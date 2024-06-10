@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a712ffe99556ab7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9b9a2415e18d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f0c9078efb3dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "active reconnaissance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6718cace68fea13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Shells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20395f7d16e7a5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hashcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcfafe6a6cdef163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbde861792a3fabe",
+    "type": "split",
+    "children": [
+      {
+        "id": "825e1a26a52f5bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b0c276f55ca6dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c35dfa2d83cb1421",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce1b08367374d7f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7132dc33e16ce65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee3329153bdf531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f13577d3335d01d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MySQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efaec0253abf5663",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MySQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f4049a13f3930bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a252a7e4d19ac34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MySQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "dcfafe6a6cdef163",
+  "lastOpenFiles": [
+    "Default Credentials.md",
+    "Hashcat.md",
+    "Hydra.md",
+    "active reconnaissance.md",
+    "CeWL.md",
+    "TFTP.md",
+    "FTP.md",
+    "SSH.md",
+    "Linux Shells.md",
+    "Nginx.md",
+    "Antak.md",
+    "Staged vs. Stageless Payloads.md",
+    "Shells.md",
+    "msfvenom.md",
+    "Metasploit.md",
+    "IMAP.md",
+    "CrackmapExec and NetExec.md",
+    "Hyprland Nvidea.md",
+    "SMBClient.md",
+    "Evil-WinRM.md",
+    "Impacket.md",
+    "Identify Target OS by ICMP TTL.md",
+    "DNS.md",
+    "DNSenum.md",
+    "Enum4Linux-ng.md",
+    "Footprinting.md",
+    "Pasted image 20240606022920.png",
+    "Pasted image 20240606013411.png",
+    "Pasted image 20240602200317.png",
+    "Pasted image 20240602194353.png",
+    "HTB Labs"
+  ]
+}
